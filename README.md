@@ -12,5 +12,7 @@ I'm a Software Engineer, web developer and an entrepreneur in making. contact me
 
 - HTML 
 - CSS
+- javascript
+- Node js
 
 ## Projects
